@@ -1,4 +1,4 @@
-(function(window, undefined) {
+(function() {
     "use strict";
 
     getCountry: getAll()
@@ -1730,4 +1730,4 @@
             "codigo": "716"
         }
     ]
-})(window)
+})()
